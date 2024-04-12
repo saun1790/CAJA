@@ -24,7 +24,7 @@ const Footer = () => {
             </div>
             <div className={classes.copyright}>
                 <small>
-                    Copyright 2024 by Mrh Rifat | All Rights & Licensed Reserved
+                    Copyright 2024 Cajamag | All Rights & Licensed Reserved
                 </small>
             </div>
         </div>

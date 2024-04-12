@@ -12,7 +12,6 @@ const Content = () => {
                 <div className={`col-12 ${classes.content}`}>
                     <Logo />
                     <Header />
-                    <Subscribe />
                     <Footer />
                 </div>
             </div>
